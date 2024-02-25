@@ -1,0 +1,12 @@
+/workspaces/Tarea/mstest-unit-testing/Substring/bin/Debug/net8.0/Substring.deps.json
+/workspaces/Tarea/mstest-unit-testing/Substring/bin/Debug/net8.0/Substring.dll
+/workspaces/Tarea/mstest-unit-testing/Substring/bin/Debug/net8.0/Substring.pdb
+/workspaces/Tarea/mstest-unit-testing/Substring/obj/Debug/net8.0/Substring.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Tarea/mstest-unit-testing/Substring/obj/Debug/net8.0/Substring.AssemblyInfoInputs.cache
+/workspaces/Tarea/mstest-unit-testing/Substring/obj/Debug/net8.0/Substring.AssemblyInfo.cs
+/workspaces/Tarea/mstest-unit-testing/Substring/obj/Debug/net8.0/Substring.csproj.CoreCompileInputs.cache
+/workspaces/Tarea/mstest-unit-testing/Substring/obj/Debug/net8.0/Substring.sourcelink.json
+/workspaces/Tarea/mstest-unit-testing/Substring/obj/Debug/net8.0/Substring.dll
+/workspaces/Tarea/mstest-unit-testing/Substring/obj/Debug/net8.0/refint/Substring.dll
+/workspaces/Tarea/mstest-unit-testing/Substring/obj/Debug/net8.0/Substring.pdb
+/workspaces/Tarea/mstest-unit-testing/Substring/obj/Debug/net8.0/ref/Substring.dll

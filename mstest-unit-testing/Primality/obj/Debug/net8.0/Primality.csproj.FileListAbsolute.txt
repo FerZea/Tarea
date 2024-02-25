@@ -1,0 +1,12 @@
+/workspaces/Tarea/mstest-unit-testing/Primality/bin/Debug/net8.0/Primality.deps.json
+/workspaces/Tarea/mstest-unit-testing/Primality/bin/Debug/net8.0/Primality.dll
+/workspaces/Tarea/mstest-unit-testing/Primality/bin/Debug/net8.0/Primality.pdb
+/workspaces/Tarea/mstest-unit-testing/Primality/obj/Debug/net8.0/Primality.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Tarea/mstest-unit-testing/Primality/obj/Debug/net8.0/Primality.AssemblyInfoInputs.cache
+/workspaces/Tarea/mstest-unit-testing/Primality/obj/Debug/net8.0/Primality.AssemblyInfo.cs
+/workspaces/Tarea/mstest-unit-testing/Primality/obj/Debug/net8.0/Primality.csproj.CoreCompileInputs.cache
+/workspaces/Tarea/mstest-unit-testing/Primality/obj/Debug/net8.0/Primality.sourcelink.json
+/workspaces/Tarea/mstest-unit-testing/Primality/obj/Debug/net8.0/Primality.dll
+/workspaces/Tarea/mstest-unit-testing/Primality/obj/Debug/net8.0/refint/Primality.dll
+/workspaces/Tarea/mstest-unit-testing/Primality/obj/Debug/net8.0/Primality.pdb
+/workspaces/Tarea/mstest-unit-testing/Primality/obj/Debug/net8.0/ref/Primality.dll
